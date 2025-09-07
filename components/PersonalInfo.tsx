@@ -12,7 +12,7 @@ const Education = () => {
     >
       {/* Section Header */}
       <div className="text-center mb-16">
-        <h2 className="text-4xl font-bold"> My <span className="text-purple text-4xl font-bold">Qualification</span></h2>
+        <h2 className="text-3xl lg:text-4xl font-bold"> My <span className="text-purple text-3xl lg:text-4xl font-bold">Qualification</span></h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4" />
         <p className="text-gray-400 mt-4 text-lg font-semibold">
           A continual journey of growth, learning, and academic excellence.
