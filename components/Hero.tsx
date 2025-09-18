@@ -45,7 +45,7 @@ const Hero = () => {
           {/* Profile Image */}
           <div className="shrink-0">
             <img
-              src="/naresh.jpg"
+              src="/Naresh.png"
               alt="Naresh Kumar"
               className="w-40 h-40 lg:w-64 lg:h-64 rounded-full object-cover border-4 border-white dark:border-white-100 shadow-2xl"
             />
