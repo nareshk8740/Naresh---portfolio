@@ -93,13 +93,13 @@ export const projects = [
   },
   {
     id: 3,
-    name:"Snaplink",
-    title: "Snaplink – Screen Recording & Video Sharing Made Simple",
-    des: "Snaplink is a simple screen recording and sharing app built with Next.js, Bunny.net, and Arcjet.",
-    img: "/sceevihome.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/ooauth.png"],
-    link: "https://snaplink-screen-recording.vercel.app/",
-    gitLink:"https://github.com/nareshk8740/Snaplink-screen-recording"
+    name:"BlendAI",
+    title: "BlendAI – Create amazing content with AI tools",
+    des: "BlendAI is a simple content creation app with AI tools built with React.js, Express and Sass.",
+    img: "/blendhome.png",
+    iconLists: ["/re.svg"],
+    link: "https://blend-ai-eosin.vercel.app/",
+    gitLink:"https://github.com/nareshk8740/BlendAI"
   },
   {
     id: 4,
@@ -180,7 +180,7 @@ export const education = [
     img: "/mdu.jpeg",
     school: "World College Of Technology & Management,  Gurugram, Haryana",
     date: "Sept 2023 - July 2025",
-    grade: "7.81 CGPA",
+    grade: "7.08 CGPA",
     degree: "Master of Computer Applications - MCA",
     desc: "I have completed my Master's degree in Computer Applications from MDU University...",
   },
